@@ -1,6 +1,5 @@
 # Algorithm_python_study
 
-# Algorithm Python Study
 
 ## 概要
 このリポジトリは、Pythonを使用して[Baekjoon Online Judge（BOJ）](https://www.acmicpc.net/)の様々なアルゴリズム問題を解いた記録です。
