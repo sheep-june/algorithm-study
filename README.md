@@ -29,7 +29,7 @@
 
 
 
-
+# Algorithm_python_study
 
 ## 개요
 이 저장소는 Python을 사용하여 [백준 온라인 저지(BOJ)](https://www.acmicpc.net/)의 다양한 알고리즘 문제를 풀이한 기록입니다.
