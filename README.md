@@ -1,2 +1,39 @@
 # Algorithm_python_study
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+# Algorithm Python Study
+
+## 概要
+このリポジトリは、Pythonを使用して[Baekjoon Online Judge（BOJ）](https://www.acmicpc.net/)の様々なアルゴリズム問題を解いた記録です。
+
+## 使用技術
+- Python
+
+## フォルダ構成
+- `백준/` : 問題の難易度やカテゴリごとに整理されたソースコード
+
+## 特徴
+- 様々なアルゴリズム・データ構造問題の解答
+- **特に数学、データ構造、実装、文字列、グリーディアルゴリズム**分野に注力
+- コード可読性向上のためのコメント追加
+- 定期的な解答コードの更新と改善
+
+
+
+
+## 개요
+이 저장소는 Python을 사용하여 [백준 온라인 저지(BOJ)](https://www.acmicpc.net/)의 다양한 알고리즘 문제를 풀이한 기록입니다.
+
+## 사용 기술
+- Python
+
+## 폴더 구조
+- `백준/` : 문제 난이도 및 카테고리별로 정리된 풀이 코드
+
+## 특징
+- 다양한 알고리즘 및 자료구조 문제 풀이
+- **특히 수학, 자료구조, 구현, 문자열, 그리디 알고리즘** 분야에 집중
+- 코드 가독성을 높이기 위한 주석 추가
+- 정기적인 문제 풀이 업데이트 및 개선
+
+
+
