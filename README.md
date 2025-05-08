@@ -9,6 +9,9 @@
 
 ## フォルダ構成
 - `백준/` : 問題の難易度やカテゴリごとに整理されたソースコード
+- <a href="https://solved.ac/profile/jju87985" target="_blank">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=jju87985" alt="Solved.ac プロフィール">
+</a>
 
 ## 特徴
 - Pythonを活用して数学的思考に基づく問題解決の基本的な実装力を向上
